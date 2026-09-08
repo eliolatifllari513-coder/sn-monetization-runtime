@@ -1,0 +1,44 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1564812	meta	1	3288	0	9	8.6	191840	7807	recent@meta|top@meta	HOT,SIGNAL	@nitter is back again
+1564734	AskSN	2	255	0	3	10.8	1532836	414	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	I begin the story between Blockstream and Hackers, and then the negotiation
+1564984	bitcoin	1	118	0	2	2.0	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	What really stops people from spamming the network?
+1564875	AskSN	2	107	0	13	6.9	1532836	414	recent@bitcoin|top@bitcoin	SIGNAL	668K in Reward
+1564335	bitcoin	1	2767	0	43	18.1	74100	12486	recent@bitcoin|top@bitcoin	HOT	Liquud White hat  returns 3400 BTC
+1564232	AskSN	2	1965	0	20	20.0	1242375	230	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Who will be the next big Bitcoin hack?
+1564196	bitcoin	1	1896	0	8	20.6	74100	12486	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Mononaut explains the Liquid vulnerability
+1564105	security	1	1773	0	16	22.8	303620	6355	recent@bitcoin|top@bitcoin|recent@security	HOT	Will Liquid Lose 1:1 BTC Parity?
+1564011	lightning	1	1690	0	1	25.6	163128	3832	recent@lightning	HOT	Onion message jamming in the lightning network - Erick Cestari
+1564128	bitcoin	1	1545	0	15	22.2	1264102	85	recent@bitcoin|top@bitcoin	HOT	Book Collecting For Bitcoiners, Part 1
+1564480	bitcoin	1	1316	0	1	16.6	280679	23141	recent@bitcoin|top@bitcoin	HOT	Coldcard exploiter moves 45% of funds stolen from 'Wave 3' attacks, Galaxy says
+1563920	bitcoin	1	1251	0	21	31.1	74100	12486	recent@bitcoin	HOT	Liquid "whitehat" trying sending funds back?
+1564194	lightning	1	1100	0	1	20.8	440729	251	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (029fedc957baf4262…)
+1563848	bitcoin	1	1036	0	4	33.3	74100	12486	recent@bitcoin|recent@bitdevs	HOT	various clanker summaries of the Liquid vulnerability
+1564409	bitcoin	1	916	0	3	17.4	1547920	6	recent@bitcoin|top@bitcoin		Sovran_Bitcoin an Opinionated alternitive to Nix-Bitcoin
+1564126	AI	1	816	0	6	22.2	297791	7694	recent@AI|top@AI		Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI
+1564656	bitcoinplusplus	1	663	0	1	12.3	462245	303	recent@bitcoinplusplus|top@bitcoinplusplus		Liquid Hacked — Last Week in Bitcoin (Aug 31 - Sep 06)
+1564117	DIY	3	555	0	4	22.5	280679	23141	recent@tech|top@tech		Build a digitally sovereign second brain
+1563917	AskSN	2	422	0	3	31.3	1532836	414	recent@bitcoin|recent@bitcoin_beginners		I have good news and bad news.
+1563987	mempool	1	342	0	1	27.3	263526	664	recent@lightning|recent@mempool		Blockstream's Liquid Explorer still stacking blocks
+1564330	bitcoin	1	247	0	0	18.2	280679	23141	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Avoiding Single Points of Failure
+1564098	AskSN	2	237	0	0	23.0	1532836	414	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Mostro 🧌 creates an identity for you when you log in for the first time
+1564133	AI	1	220	0	4	22.1	280679	23141	recent@AI|top@AI		AI keeps stubbornly refusing to take our jobs
+1563810	bitcoin	1	193	0	8	34.5	1301409	53	recent@bitdevs		What's the status on freeing Samourai?
+1563892	AskSN	2	176	0	3	32.1	792262	1754	recent@bitcoin		Would you receive that package at home?
+1563754	bitcoin	1	155	0	2	35.9	296825	5289	recent@bitcoin_beginners|recent@lightning		I don’t believe we shall ever have good money again
+1564015	AI	1	125	0	2	25.4	1054143	1212	recent@AI		Google Puts Voice AI Inside Gmail, Docs and Keep
+1564231	lightning	1	115	0	5	20.0	263526	664	recent@lightning|top@lightning		judge Lightning on what it moves, here the numbers
+1563886	AI	1	110	0	0	32.2	1208996	495	recent@AI		❤️🤖 AI is entering a place we never imagined: Our minds 🧠
+1564937	bitcoin	1	95	0	2	4.1	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Announcing Libbitcoin: Bitcoin full node and query server
+1564332	bitcoin_beginners	1	57	0	0	18.1	238412	249	recent@bitcoin_beginners|top@bitcoin_beginners|recent@nostr		Update from Milad
+1564948	bitcoin	1	50	0	0	3.9	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Not your federation, not your coins
+1564210	lightning	1	43	0	3	20.4	263526	664	recent@lightning|top@lightning		Sado Island Venue Launches Bitcoin Lightning Payments
+1564817	bitcoin_beginners	1	42	0	0	8.3	238412	249	recent@bitcoin_beginners|top@bitcoin_beginners|recent@nostr		Help Veronica Bridge The Gap
+1564522	bitcoin_Mining	1	42	0	2	15.5	280679	23141	recent@bitcoin_Mining|top@bitcoin_Mining		Starcloud wants to mine bitcoin in space -- what could go wrong?
+1564989	tech	1	21	0	2	1.8	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH	They took what you could buy once and turned it into a monthly subscription
+1564902	bitcoin_beginners	1	21	0	0	5.5	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		A look at the latest Cashu releases to start the week
+1564127	AI	1	21	0	0	22.2	1490792	462	recent@bitcoin_Mining|top@bitcoin_Mining		Antimatter | AI Infrastructure Built for Energy Constraints
+1564113	security	1	21	0	0	22.6	297791	7694	recent@security|top@security		N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw
+1564889	devs	1	21	0	0	6.1	1248037	2009	recent@devs|top@devs		Emacs Bedrock 2.0 | Hacker News
+1564933	bitcoin	1	1	0	0	4.2	296825	5289	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Liquid's 3,996 BTC Peg-Out Turns Into an On-Chain Negotiation
+1564951	bitcoin_Mining	1	1	0	0	3.6	185956	177	recent@bitcoin_Mining|top@bitcoin_Mining		[Update] Bassin 2.1.4 on Umbrel - Self-Hosted Solo Bitcoin Mining Pool (ckPool)
+1565013	AI	1	0	0	0	0.9	280679	23141	recent@AI|top@AI	FRESH	Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform
