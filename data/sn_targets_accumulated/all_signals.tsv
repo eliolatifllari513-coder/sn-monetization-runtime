@@ -46559,3 +46559,32 @@
 2026-09-09T21:38:55.749Z	1566658	security	1	122	0	0	0.7	280679	23205	recent@lightning|top@lightning|recent@security	FRESH,SIGNAL	Phishing Alert: Do Not Act on Unsolicited Liquid or Blockstream Messages
 2026-09-09T21:38:55.749Z	1566199	news	2	109	0	0	7.9	1490792	475	recent@news|top@news	SIGNAL	Iran says it captured US submarine drone in Strait of Hormuz
 2026-09-09T21:38:55.750Z	1566675	math	2	102	0	0	0.2	280679	23205	recent@math|top@math|recent@science	FRESH,SIGNAL	What Is Math’s Mysterious Langlands Program Really About?
+2026-09-09T23:17:17.615Z	1566339	bitcoin	1	6109	0	63	7.0	74100	12544	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Is L-BTC a shitcoin?
+2026-09-09T23:17:17.616Z	1566096	bitcoin	1	3317	0	57	10.9	74100	12544	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Liquid hacker: "You shall pay for your dereliction of duty"
+2026-09-09T23:17:17.616Z	1566607	bitcoin	1	2672	0	1	3.3	1565925	4	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Core 31.1 released
+2026-09-09T23:17:17.616Z	1566740	AskSN	2	2395	0	4	0.5	1532836	431	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	Phishing attack underway targeting @BitBoxSwiss and @Trezor customers via email.
+2026-09-09T23:17:17.616Z	1566168	bitcoin	1	2188	0	2	9.9	303620	6370	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Cornell Bitcoin Adoption Index — 2026 Edition
+2026-09-09T23:17:17.616Z	1566271	meta	1	1888	0	30	8.2	934367	1019	recent@meta|top@meta	HOT,SIGNAL	who tf spent almost half a million sats in downzapping yesterday?
+2026-09-09T23:17:17.616Z	1566160	lightning	1	1360	0	1	10.1	440729	255	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (0340d4aaf922c38ac…)
+2026-09-09T23:17:17.616Z	1566452	AI	1	1147	0	28	5.3	48657	15142	recent@AI|top@AI	HOT,SIGNAL	Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears
+2026-09-09T23:17:17.616Z	1566474	tech	1	1101	0	3	4.9	402772	22338	recent@tech|top@tech	HOT,SIGNAL	Apple Debuts the iPhone Duo, Its First Folding iPhone
+2026-09-09T23:17:17.616Z	1566261	meta	1	854	0	11	8.3	36151	1626	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-09-09T23:17:17.616Z	1566517	news	2	851	0	3	4.4	74100	12544	recent@bitcoin|top@bitcoin	SIGNAL	Liquid Network update - new release as of 9 Sept 2026 1330 UTC
+2026-09-09T23:17:17.616Z	1566287	events	3	689	0	1	7.9	133958	193	recent@bitcoin|top@bitcoin	SIGNAL	Hackalajara 2.0: PlebLab Startup Day Guadalajara Recap - Bitcoin News
+2026-09-09T23:17:17.616Z	1566564	news	2	674	0	0	3.8	297791	7707	recent@tech|top@tech	SIGNAL	Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7
+2026-09-09T23:17:17.616Z	1566660	meta	1	670	0	3	2.3	1566660	2	recent@bitcoin|top@bitcoin|recent@meta	SIGNAL	The rewards pot is hot: 618,087 sats
+2026-09-09T23:17:17.616Z	1566548	AI	1	670	0	1	4.0	12309	3661	recent@AI|top@AI	SIGNAL	Scenarios for our Economic Future
+2026-09-09T23:17:17.616Z	1566407	lightning	1	631	0	2	6.2	440729	255	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03eedd67ac9b4762c…)
+2026-09-09T23:17:17.616Z	1566680	AI	1	490	0	1	1.7	227606	2534	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	For a good time...
+2026-09-09T23:17:17.616Z	1566227	AI	1	308	0	0	9.0	280679	23209	recent@AI|top@AI	SIGNAL	Data Center Dividends
+2026-09-09T23:17:17.616Z	1566658	security	1	288	0	0	2.3	280679	23209	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Phishing Alert: Do Not Act on Unsolicited Liquid or Blockstream Messages
+2026-09-09T23:17:17.616Z	1566201	bitcoin	1	278	0	0	9.5	296825	5303	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Block Files OCC Charter for Builders Bank, a Purpose-Built Bitcoin Custody Trust
+2026-09-09T23:17:17.616Z	1566595	lightning	1	264	0	0	3.4	1565923	4	recent@lightning|top@lightning	SIGNAL	lnd v0.20.3-beta.rc1
+2026-09-09T23:17:17.616Z	1566599	the_stacker_muse	3	239	0	1	3.4	296825	5303	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Somebody paid 80 cents to write eight words into the Timechain
+2026-09-09T23:17:17.616Z	1566333	bitcoin	1	206	0	0	7.2	1547920	9	recent@lightning|top@lightning	SIGNAL	Sovran_SystemsOS v1.1.5 is now Live!
+2026-09-09T23:17:17.616Z	1566335	bitcoin	1	201	0	0	7.1	296825	5303	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Cashu is looking for a cracked rust dev to work with the team on cashu
+2026-09-09T23:17:17.616Z	1566696	lightning	1	170	0	29	1.3	273359	990	recent@lightning|top@lightning	FRESH,SIGNAL	Justin Shocknet caught trying to drain Lightning wallets
+2026-09-09T23:17:17.616Z	1566642	AI	1	168	0	2	2.6	297791	7707	recent@AI|top@AI	SIGNAL	Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent
+2026-09-09T23:17:17.616Z	1566179	AI	1	142	0	0	9.8	296825	5303	recent@AI|top@AI	SIGNAL	OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math
+2026-09-09T23:17:17.616Z	1566134	AI	1	125	0	0	10.3	1490792	475	recent@AI|top@AI	SIGNAL	US claims Chinese AI companies’ core AI strategy is distilling American models
+2026-09-09T23:17:17.616Z	1566112	bitcoin	1	123	0	1	10.5	1490792	475	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Block seeks OCC charter for Bitcoin custody
