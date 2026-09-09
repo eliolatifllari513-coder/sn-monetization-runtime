@@ -1,22 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-09T08:42:18.308Z; n=40
+# generated 2026-09-09T14:11:41.198Z; n=40
 review	sn:bitcoin,sn:BooksAndArticles	7.17	yes	
-update	sn:bitcoin,sn:AI	6.61	yes	
-last	sn:Stacker_Sports	6.59	no	RISING
-navier	hn,sn:AI	6.49	yes	
-stokes millennium prize problem	hn,sn:AI	6.49	yes	
-predyx	sn:Stacker_Stocks,sn:Stacker_Sports	6.49	no	RISING
-episode	sn:openagents	3.82	no	RISING
+update	sn:bitcoin,sn:AI	6.65	yes	
+daily putt	sn:gaming	6.65	no	RISING
+play	sn:gaming	6.65	no	RISING
+putt	sn:gaming	6.65	no	RISING
+score	sn:gaming	6.65	no	RISING
+liquid	sn:bitcoin	6.49	yes	
+week	sn:Stacker_Sports,sn:AskSN	6.36	no	RISING
+episode	sn:openagents	4.02	no	RISING
 what you need to know about bitcoins	sn:bitcoin	3.8	yes	
 first bitcoin book	sn:bitcoin	3.8	yes	
-would	sn:AskSN	3.57	yes	
+would	sn:AskSN	3.58	yes	
 bitcoin reframed	sn:bitcoin	3.54	yes	
 freedom	sn:bitcoin	3.54	yes	
 overlooked promise	sn:bitcoin	3.54	yes	
 gladstein	sn:bitcoin	3.54	yes	
 survivor pool	sn:Stacker_Sports	3.49	no	RISING
-week	sn:Stacker_Sports	3.49	no	RISING
 pick submissions	sn:Stacker_Sports	3.49	no	RISING
+navier	sn:AI	3.39	yes	
+stokes millennium prize problem	sn:AI	3.39	yes	
 tutorial	sn:bitcoin	3.39	yes	
 frostsnap	sn:bitcoin	3.39	yes	
 blindsight	sn:BooksAndArticles	3.37	no	RISING
@@ -26,17 +29,14 @@ value	sn:AI	3.37	yes
 what it can	sn:AI	3.37	yes	
 replicate	sn:AI	3.37	yes	
 kimberlee josephson	sn:AI	3.37	yes	
-sweden	sn:Politics_And_Law	3.33	no	RISING
-fight against	sn:Politics_And_Law	3.33	no	RISING
-deadly gangs	sn:Politics_And_Law	3.33	no	RISING
-richard milne	sn:Politics_And_Law	3.33	no	RISING
-liquid	sn:bitcoin	3.32	yes	
-network	sn:bitcoin	3.32	yes	
-incident	sn:bitcoin	3.32	yes	
-report	sn:bitcoin	3.32	yes	
+network	sn:bitcoin	3.36	yes	
+incident	sn:bitcoin	3.36	yes	
+report	sn:bitcoin	3.36	yes	
 new sports markets	sn:Stacker_Stocks	3.3	no	RISING
+predyx	sn:Stacker_Stocks	3.3	no	RISING
 central limit order book	sn:Stacker_Stocks	3.3	no	RISING
-daily putt	sn:gaming	3.3	no	RISING
-play	sn:gaming	3.3	no	RISING
-putt	sn:gaming	3.3	no	RISING
-score	sn:gaming	3.3	no	RISING
+success	sn:AI	3.29	yes	
+telegram	sn:AI	3.29	yes	
+navier-stokes	hn	3.27	no	RISING
+tristan buckmaster	hn	3.27	no	RISING
+the return	sn:BooksAndArticles	3.19	no	RISING
