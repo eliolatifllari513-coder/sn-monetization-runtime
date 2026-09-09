@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-08T23:52:09.776Z; n=40
-review	sn:bitcoin,sn:BooksAndArticles	7.08	yes	
+# generated 2026-09-09T08:42:18.308Z; n=40
+review	sn:bitcoin,sn:BooksAndArticles	7.17	yes	
+update	sn:bitcoin,sn:AI	6.61	yes	
 last	sn:Stacker_Sports	6.59	no	RISING
-predyx	sn:Stacker_Stocks,sn:Stacker_Sports	6.47	no	RISING
-update	sn:bitcoin,sn:AI	6.46	yes	
-navier	hn,sn:AI	6.29	yes	
-stokes millennium prize problem	hn,sn:AI	6.29	yes	
-atlas	hn	4.56	yes	
-show	hn	4.33	no	RISING
-can you safely launder bitcoin	sn:AskSN	3.78	no	RISING
-and how much	sn:AskSN	3.78	no	RISING
-what you need to know about bitcoins	sn:bitcoin	3.77	yes	
-first bitcoin book	sn:bitcoin	3.77	yes	
-bitcoin reframed	sn:bitcoin	3.45	yes	
-freedom	sn:bitcoin	3.45	yes	
-overlooked promise	sn:bitcoin	3.45	yes	
-gladstein	sn:bitcoin	3.45	yes	
-would	sn:AskSN	3.4	yes	
-who owns	sn:AskSN	3.38	no	RISING
-and other qs	sn:AskSN	3.38	no	RISING
-the natural dividend	sn:AskSN	3.38	no	RISING
-tutorial	sn:bitcoin	3.38	yes	
-frostsnap	sn:bitcoin	3.38	yes	
-raises	sn:AI	3.36	yes	
-value	sn:AI	3.36	yes	
-what it can	sn:AI	3.36	yes	
-replicate	sn:AI	3.36	yes	
-kimberlee josephson	sn:AI	3.36	yes	
-metaplanet	sn:lol	3.34	no	RISING
+navier	hn,sn:AI	6.49	yes	
+stokes millennium prize problem	hn,sn:AI	6.49	yes	
+predyx	sn:Stacker_Stocks,sn:Stacker_Sports	6.49	no	RISING
+episode	sn:openagents	3.82	no	RISING
+what you need to know about bitcoins	sn:bitcoin	3.8	yes	
+first bitcoin book	sn:bitcoin	3.8	yes	
+would	sn:AskSN	3.57	yes	
+bitcoin reframed	sn:bitcoin	3.54	yes	
+freedom	sn:bitcoin	3.54	yes	
+overlooked promise	sn:bitcoin	3.54	yes	
+gladstein	sn:bitcoin	3.54	yes	
+survivor pool	sn:Stacker_Sports	3.49	no	RISING
+week	sn:Stacker_Sports	3.49	no	RISING
+pick submissions	sn:Stacker_Sports	3.49	no	RISING
+tutorial	sn:bitcoin	3.39	yes	
+frostsnap	sn:bitcoin	3.39	yes	
+blindsight	sn:BooksAndArticles	3.37	no	RISING
+peter watts	sn:BooksAndArticles	3.37	no	RISING
+raises	sn:AI	3.37	yes	
+value	sn:AI	3.37	yes	
+what it can	sn:AI	3.37	yes	
+replicate	sn:AI	3.37	yes	
+kimberlee josephson	sn:AI	3.37	yes	
 sweden	sn:Politics_And_Law	3.33	no	RISING
 fight against	sn:Politics_And_Law	3.33	no	RISING
 deadly gangs	sn:Politics_And_Law	3.33	no	RISING
 richard milne	sn:Politics_And_Law	3.33	no	RISING
-blindsight	sn:BooksAndArticles	3.31	no	RISING
-peter watts	sn:BooksAndArticles	3.31	no	RISING
-new sports markets	sn:Stacker_Stocks	3.28	no	RISING
-central limit order book	sn:Stacker_Stocks	3.28	no	RISING
-success	sn:AI	3.27	yes	
-telegram	sn:AI	3.27	yes	
-finals week three pickem	sn:Stacker_Sports	3.2	no	RISING
-liquid	sn:bitcoin	3.19	yes	
+liquid	sn:bitcoin	3.32	yes	
+network	sn:bitcoin	3.32	yes	
+incident	sn:bitcoin	3.32	yes	
+report	sn:bitcoin	3.32	yes	
+new sports markets	sn:Stacker_Stocks	3.3	no	RISING
+central limit order book	sn:Stacker_Stocks	3.3	no	RISING
+daily putt	sn:gaming	3.3	no	RISING
+play	sn:gaming	3.3	no	RISING
+putt	sn:gaming	3.3	no	RISING
+score	sn:gaming	3.3	no	RISING
