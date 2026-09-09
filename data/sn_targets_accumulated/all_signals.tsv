@@ -46355,3 +46355,32 @@
 2026-09-09T14:27:50.986Z	1566174	charts_and_maps	2	121	0	3	1.0	280679	23185	recent@econ|top@econ|recent@charts_and_maps	FRESH,SIGNAL	Mapped: America’s Top Employment Sector by State (1990 vs. 2025)
 2026-09-09T14:27:50.986Z	1565993	Stacker_Stocks	2	121	0	0	4.6	9274	27218	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
 2026-09-09T14:27:50.986Z	1565872	openagents	1	101	0	2	8.9	534967	240	recent@openagents|top@openagents	SIGNAL	Episode 281: Coder Mobile
+2026-09-09T15:14:29.420Z	1565990	bitcoin	1	1971	0	22	5.4	303620	6367	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Albyhub Update ASAP!!!
+2026-09-09T15:14:29.420Z	1566096	bitcoin	1	1782	0	40	2.8	74100	12520	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Liquid hacker: "You shall pay for your dereliction of duty"
+2026-09-09T15:14:29.420Z	1566160	lightning	1	1360	0	1	2.0	440729	254	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (0340d4aaf922c38ac…)
+2026-09-09T15:14:29.420Z	1566168	bitcoin	1	1292	0	0	1.9	303620	6367	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	Cornell Bitcoin Adoption Index — 2026 Edition
+2026-09-09T15:14:29.420Z	1565856	math	2	1147	0	5	10.9	74100	12520	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Computing 256-bit ECC DLs in 26 days with a quantum computer with 20,000 qubits
+2026-09-09T15:14:29.420Z	1566008	AI	1	831	0	9	5.0	4078	5465	recent@AI|top@AI	SIGNAL	Opusfived
+2026-09-09T15:14:29.420Z	1566261	meta	1	735	0	1	0.2	36151	1626	recent@meta|top@meta	FRESH,SIGNAL	What are you working on this week?
+2026-09-09T15:14:29.420Z	1565933	news	2	635	0	2	7.7	297791	7702	recent@bitcoin|top@bitcoin	SIGNAL	Iran turns to crypto to get around sanctions
+2026-09-09T15:14:29.420Z	1565965	AI	1	385	0	4	6.6	402772	22326	recent@AI|top@AI	SIGNAL	Former OpenAI & Anthropic Researcher: “Neither Company Is Acting Responsibly”
+2026-09-09T15:14:29.420Z	1565881	bitcoin	1	350	0	1	9.3	263526	673	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Post-quantum rescue protocols for Bitcoin
+2026-09-09T15:14:29.420Z	1565984	AI	1	317	0	3	5.6	280679	23192	recent@AI|top@AI	SIGNAL	The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT
+2026-09-09T15:14:29.420Z	1566271	meta	1	223	0	5	0.1	934367	1015	recent@meta|top@meta	FRESH,SIGNAL	who tf spent almost half a million sats in downzapping yesterday?
+2026-09-09T15:14:29.420Z	1565866	AskSN	2	218	0	0	10.3	296825	5301	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Would you recommend, ignoring the quantum panic narrative?
+2026-09-09T15:14:29.420Z	1565852	AskSN	2	215	0	2	11.1	1532836	427	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	SIGNAL	Upon seeing the communication between Blockstream and the Hackers
+2026-09-09T15:14:29.420Z	1565968	bitcoin_beginners	1	215	0	3	6.5	1240185	67	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Security: A Beginner's Guide to Self-Custody
+2026-09-09T15:14:29.421Z	1566035	AskSN	2	197	0	1	4.6	1532836	427	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	my POW from rigly's blockparty
+2026-09-09T15:14:29.421Z	1566201	bitcoin	1	178	0	0	1.5	296825	5301	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Block Files OCC Charter for Builders Bank, a Purpose-Built Bitcoin Custody Trust
+2026-09-09T15:14:29.421Z	1566048	news	2	175	0	0	4.0	280679	23192	recent@devs|top@devs	SIGNAL	Switzerland tests a FOSS escape route from Microsoft 365. Workplace for 3k
+2026-09-09T15:14:29.421Z	1565875	bitcoin	1	169	0	0	9.4	296825	5301	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Pay for BitcoinPIR queries with Cashu
+2026-09-09T15:14:29.421Z	1566012	AI	1	168	0	2	4.9	280679	23192	recent@AI|top@AI	SIGNAL	AI Has Solved One of Math’s $1 Million Millennium Prize Problems
+2026-09-09T15:14:29.421Z	1566001	AI	1	166	0	1	5.2	297791	7702	recent@AI|top@AI	SIGNAL	Anthropic researcher says AI has more than 10% chance of 'killing all humans'
+2026-09-09T15:14:29.421Z	1566000	meta	1	160	0	0	5.2	36151	1626	recent@meta|top@meta	SIGNAL	This Day on SN: September 9
+2026-09-09T15:14:29.421Z	1566179	AI	1	142	0	0	1.8	296825	5301	recent@AI|top@AI	FRESH,SIGNAL	OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math
+2026-09-09T15:14:29.421Z	1565830	Geyser_community	3	132	0	1	11.9	238412	251	recent@nostr|top@nostr	SIGNAL	A ray of hope
+2026-09-09T15:14:29.421Z	1565869	AI	1	127	0	0	10.1	296825	5301	recent@AI|top@AI	SIGNAL	Jacob Coxon just resigned from Anthropic today.
+2026-09-09T15:14:29.421Z	1565902	news	2	125	0	1	8.5	297791	7702	recent@devs|top@devs	SIGNAL	CERN Renounces RHEL in Favor of Debian 4 its Accelerator Controls Infrastructure
+2026-09-09T15:14:29.421Z	1566134	AI	1	125	0	0	2.3	1490792	473	recent@AI|top@AI	SIGNAL	US claims Chinese AI companies’ core AI strategy is distilling American models
+2026-09-09T15:14:29.421Z	1566227	AI	1	113	0	0	0.9	280679	23192	recent@AI|top@AI	FRESH,SIGNAL	Data Center Dividends
+2026-09-09T15:14:29.421Z	1565872	openagents	1	101	0	2	9.7	534967	240	top@openagents	SIGNAL	Episode 281: Coder Mobile
