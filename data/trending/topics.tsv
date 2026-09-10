@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-10T14:05:36.994Z; n=40
-what	hn,sn:meta	10.72	yes	
-show	hn	8.69	no	RISING
-bitcoin	sn:bitcoin,sn:Stacker_Stocks	7.11	yes	
-liquid	sn:bitcoin,sn:Stacker_Stocks	6.33	yes	
-slowly exiting	sn:bitcoin	3.87	yes	
-fiat world	sn:bitcoin	3.87	yes	
+# generated 2026-09-10T18:58:28.081Z; n=40
+bitcoin	sn:bitcoin,sn:Stacker_Stocks	10.1	yes	
+liquid	sn:bitcoin,sn:Stacker_Stocks	6.48	yes	
+cognition	hn	5.36	no	RISING
+show	hn	4.41	no	RISING
+slowly exiting	sn:bitcoin	4.03	yes	
+fiat world	sn:bitcoin	4.03	yes	
+neki	hn	4.01	no	RISING
+little victoria	sn:gaming	3.88	no	RISING
+math puzzle	sn:math	3.79	no	RISING
 phishing	sn:AskSN	3.71	yes	
 trezor	sn:AskSN	3.71	yes	
-treasury	sn:Politics_And_Law	3.63	no	RISING
-william gibson	sn:the_stacker_muse	3.52	no	RISING
-the art	sn:the_stacker_muse	3.52	no	RISING
-fiction no	sn:the_stacker_muse	3.52	no	RISING
+william gibson	sn:the_stacker_muse	3.56	no	RISING
+the art	sn:the_stacker_muse	3.56	no	RISING
+fiction no	sn:the_stacker_muse	3.56	no	RISING
+disability	sn:AskSN	3.52	no	RISING
 opening night	sn:Stacker_Sports	3.49	no	RISING
 patriots	sn:Stacker_Sports	3.49	no	RISING
 seahawks	sn:Stacker_Sports	3.49	no	RISING
 bitcoin core	sn:bitcoin	3.49	yes	
-ignores homes	sn:econ	3.47	no	RISING
-stocks	sn:econ	3.47	no	RISING
-the daily economy	sn:econ	3.47	no	RISING
-karl-friedrich israel	sn:econ	3.47	no	RISING
-should	sn:AskSN	3.46	no	RISING
-state pay stay	sn:AskSN	3.46	no	RISING
-home moms	sn:AskSN	3.46	no	RISING
-little victoria	sn:gaming	3.43	no	RISING
-september	sn:charts_and_maps	3.39	yes	
-yellow month	sn:charts_and_maps	3.39	no	RISING
-anthropic researcher quits over	sn:AI	3.37	yes	
-control	sn:AI	3.37	yes	
-fears	sn:AI	3.37	yes	
+trump	sn:Politics_And_Law	3.48	no	RISING
+republicans	sn:Politics_And_Law	3.48	no	RISING
 freedom	sn:bitcoin	3.33	yes	
-bocce	sn:the_stacker_muse	3.28	no	RISING
+one piece	sn:AskSN	3.28	no	RISING
+conduition	sn:bitcoin	3.26	yes	
+bitcoin optech newsletter	sn:bitcoin	3.26	yes	
+recap	sn:bitcoin	3.26	yes	
 will	sn:Stacker_Stocks	3.25	no	RISING
 predyx	sn:Stacker_Stocks	3.25	no	RISING
 markets	sn:Stacker_Stocks	3.25	no	RISING
-apple debuts	sn:tech	3.18	yes	
-its first folding	sn:tech	3.18	yes	
-daily putt	sn:gaming	3.11	no	RISING
-play	sn:gaming	3.11	no	RISING
-putt	sn:gaming	3.11	no	RISING
-score	sn:gaming	3.11	no	RISING
+daily putt	sn:gaming	3.25	no	RISING
+play	sn:gaming	3.25	no	RISING
+putt	sn:gaming	3.25	no	RISING
+score	sn:gaming	3.25	no	RISING
+messenger	sn:bitcoin	3.23	yes	
+pool	sn:AskSN	2.97	no	RISING
+week	sn:AskSN	2.97	no	RISING
+match day	sn:AskSN	2.97	no	RISING
+daily discussion thread	sn:Music	2.95	no	RISING
+music saloon	sn:Music	2.95	no	RISING
+flash	hn	2.92	no	RISING
